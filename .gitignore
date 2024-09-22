@@ -1,6 +1,7 @@
 .env
 secrets.conf
 *.swp
+
 *.swp
 *.tmp
 *.tmp
@@ -9,8 +10,8 @@ printer-[0-9]*_[0-9]*.cfg
 *.bak
 *.bak
 *.bkp
-*.csv
 *.bkp
-*.zip
 *.csv
+*.csv
+*.zip
 *.zip
